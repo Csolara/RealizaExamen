@@ -1,0 +1,69 @@
+@charset "UTF-8";
+
+.titulo {
+	width: 100%;
+	height: 160px;
+	font-size: 3rem;
+	background-color: orange;
+	text-align: center;
+}
+
+.botones {
+	width: 100%;
+	height: 90px;
+	font-size: 3rem;
+	background-color: orange;
+}
+.ancho{
+	width: 300px;
+}
+.bordearriba{
+	margin-top: -90px
+}
+.azul{
+	background-color: skyblue;
+}
+.CSI{
+	transform: translateY(50px) translateX(-50px);
+}
+.CMI{
+	transform: translateY(50px) translateX(-80px);
+}
+.Contacta{
+	transform: translateX(-80px);	
+}
+.Politica{
+	transform: translateX(-50px)
+}
+.imagen{
+	transform: translateX(-300px);
+}
+.nombre{
+	transform: translateY(-220px);
+	font-size: 4rem;
+}
+.verde{
+	color: green;
+	font-size: 2rem;
+	transform: translateX(600px) translateY(-30px);
+}
+.texto{
+	transform: translateY(-50px);
+	font-size: 1.1rem;	
+}
+.fondotexto{
+	background-color: lightyellow;
+}
+.imagen2{
+	transform: translateY(-620px) translateX(180px);
+}
+.azulclaro{
+	background-color: skyblue;
+	height: 100px;
+	transform: translateY(-300px);
+}
+.gris{
+	background-color: darkgrey;
+	height: 100px;
+	transform: translateY(-316px);
+}
